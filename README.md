@@ -1,5 +1,4 @@
 # AI_Research
-# AI_Research
 This repository is organized into well-labeled folders and documents, making it easier for collaborators to navigate and contribute. Key contents include:
 
 📁 Folders:
